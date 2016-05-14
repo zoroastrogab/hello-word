@@ -1,2 +1,2 @@
 # hello-word
-sto provando questa applicazione
+sto provando  applicazione
